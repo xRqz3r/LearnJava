@@ -1,9 +1,8 @@
-
 /*
 z * Name: xRqz3r
  * Date: September 21, 2021
  * Title Product
- * Description: An application that calculates three integers
+ * Description: An application that calculates three integers (ex. 1 * 3 * 4 = 12)
  */
 
 //Importing Scanner
